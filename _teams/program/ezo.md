@@ -3,11 +3,14 @@ name: Evropská unie, zahraničí, obrana
 title: Evropská unie, zahraničí, obrana
 img: teams/zahranici.jpg
 leader: mikulas.peksa
-deputy:
+contact:
+ - mikulas.peksa
  - jan.lipavsky
  - frantisek.kopriva
-contact:
-- mikulas.peksa
+ - david.wagner
+ - tomas.guth.jarkovsky
+ - tomas.haba
+ - marketa.gregorova
 category: resort
 redmine: https://redmine.pirati.cz/projects/ezo-tym
 uid: ezo
